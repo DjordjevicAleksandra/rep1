@@ -2,6 +2,6 @@
 
 Drugi red
 
-## Treci red
+## Peti red
 
-Cetvrti red
+Sesti red
