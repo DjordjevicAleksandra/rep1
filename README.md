@@ -3,5 +3,3 @@
 Drugi red
 
 ## Peti red
-
-Sesti red
